@@ -1,0 +1,35 @@
+---
+title: "Developing Data Products Course Project using Shiny"
+author: "A. Sachin Vianney"
+date: "October 14, 2018"
+output: ioslides_presentation
+---
+
+## BMI Calculator using Shiny
+
+#Defenition
+
+Body mass index (BMI) is a measure of body fat based on your weight in relation to your height, and applies to most adult men and women aged 20 and over.
+
+#History
+
+Adolphe Quetelet, a Belgian astronomer, mathematician, statistician and sociologist, devised the basis of the BMI between 1830 and 1850 as he developed what he called social physics.The modern term body mass index (BMI) for the ratio of human body weight to squared height was coined in a paper published in the July 1972 edition of the Journal of Chronic Diseases by Ancel Keys and others.
+
+## What does the app do?
+
+The app inputs the user data in the form of two slider inputs, one being the user's weight(in kg) and the other being the user's height( in inches).
+The output is a visualization of the user's BMI on a barplot with the different colours indicating the extent of danger.
+
+## BMI scales used
+
+The sources for the BMI scale are : 
+- http://www.whathealth.com/BMI/chart-feetkilos.html
+- https://www.thecalculatorsite.com/health/charts/BMI-chart.php
+
+## References and links
+
+The app can be accessed using the following URl: 
+- https://sachinvianney.shinyapps.io/FinalProject/
+
+Further notes and the source code is availabe on the following github link:
+- https://github.com/sachinvianney/Developing-Data-Products
